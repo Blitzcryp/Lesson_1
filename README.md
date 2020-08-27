@@ -32,5 +32,7 @@ Starting Section 4
 * Time 
 * Abbreviations & Quotes
 * Get your hands dirty! (once more)
+
 15:49 Finished Section 5, will soon start CSS Section 1
+
 17:26 Finished Section 5 and bought some juice, might as well take a break, I am tired.
