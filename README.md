@@ -22,3 +22,14 @@ Starting Section 4
 * Forms
 * HTML Special Characters
 * Get your hands dirty! (AGAIN)
+14:31 Finished Section 4
+
+15:12 Starting Section 5
+* ID's & Classes
+* Header & Footer
+* Nav, Section & Article 
+* Aside
+* Time 
+* Abbreviations & Quotes
+* Get your hands dirty! (once more)
+15:49 Finished Section 5, will soon start CSS Section 1
