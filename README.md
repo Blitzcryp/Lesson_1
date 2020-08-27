@@ -5,7 +5,6 @@ HTML &amp; CSS repo for practice
 11:26AM Section 2, Lesson 11  
 Learning document structure
 
-## 8/27/2020
 11:45 Section 2, Lesson 16
 Getting my hands dirty and modifying the HTML Doc and taking Quiz2: HTML Foundations
 Starting Section 3, Lesson 17 
@@ -15,4 +14,11 @@ Starting Section 3, Lesson 17
 * Address
 * Get your hands dirty!
 
-12:24PM finished Section 2, starting to code on CodeWars until 13:30PM
+12:24 finished Section 3, starting to code on CodeWars until 13:30PM
+
+13:57 Thinkered problems on Codewars till now. 
+Starting Section 4
+* Tables
+* Forms
+* HTML Special Characters
+* Get your hands dirty! (AGAIN)
