@@ -14,3 +14,5 @@ Starting Section 3, Lesson 17
 * Images
 * Address
 * Get your hands dirty!
+
+12:24PM finished Section 2, starting to code on CodeWars until 13:30PM
